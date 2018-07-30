@@ -28,7 +28,8 @@ public class SenhaForm {
 	
 	//variaveis
 	int senha = 0;
-	String arquivo = salvo.txt;
+	String arquivo = "salvo.txt";
+	
 
 	/**
 	 * Launch the application.
